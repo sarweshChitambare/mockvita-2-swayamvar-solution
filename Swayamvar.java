@@ -1,9 +1,9 @@
 import java.util.Scanner;
 import java.util.LinkedList; 
 import java.util.Queue; 
-class Swayamvar
+ public class Swayamvar
 {
-public static void main(String args[])
+ public static void main(String args[])
 	{
 		Queue<Character> qb= new LinkedList<Character>();
 		Queue<Character> qg= new LinkedList<Character>();
